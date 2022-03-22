@@ -1,0 +1,14 @@
+.cart{
+    /* position: sticky;
+    top: 0; */
+    color: rgb(100, 99, 99);
+}
+.cart p, h4{
+    padding: 0px 30px;
+    text-align: end; 
+}
+.order-summary{
+    text-align: center;  
+    padding: 0px 30px;
+    margin-bottom: 40px;
+}
