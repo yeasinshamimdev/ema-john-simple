@@ -28,12 +28,13 @@
     width: 415px;
     height: 55px;
     font-size: 20px;
+    padding-left: 5px;
     border: 1px solid #95A0A7;
     box-sizing: border-box;
     border-radius: 5px;
 }
 .input-group input:focus{
-    outline: none;
+    outline:#2da0e8;
 }
 
 .form-submit {
